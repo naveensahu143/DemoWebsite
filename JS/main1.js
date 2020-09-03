@@ -1,7 +1,7 @@
 
 
-window.BASE_URL = 'http://127.0.0.1:8080/'
-// window.BASE_URL = 'https://naveensahu143.github.io/TravelBlog'
+//window.BASE_URL = 'http://127.0.0.1:8080/'
+ window.BASE_URL = 'https://naveensahu143.github.io/DemoWebsite'
 
 
 class DataBase {
