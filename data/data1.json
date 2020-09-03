@@ -1,0 +1,76 @@
+{
+    "posts": [
+        {
+            "id":"1",
+            "image":"p1.jpg",
+            "title":"Shimla",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        },
+        {
+            "id":"2",
+            "image":"p2.jpg",
+            "title":"Manali",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        },
+        {
+            "id":"3",
+            "image":"p3.jpg",
+            "title":"Kashmir",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        },
+        {
+            "id":"4",
+            "image":"p4.jpg",
+            "title":"Delhi",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        },
+        {
+            "id":"5",
+            "image":"p5.jpg",
+            "title":"Amritsar",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        },
+        {
+            "id":"6",
+            "image":"p6.jpg",
+            "title":"Noida",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        },
+        {
+            "id":"7",
+            "image":"p7.jpg",
+            "title":"Gangtok",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        },
+        {
+            "id":"8",
+            "image":"p8.jpg",
+            "title":"leh",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        },
+        {
+            "id":"9",
+            "image":"p9.jpg",
+            "title":"ladakh",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        },
+        {
+            "id":"10",
+            "image":"p10.jpg",
+            "title":"Mumbai",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        },
+        {
+            "id":"11",
+            "image":"p11.jpg",
+            "title":"Jaipur",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        },
+        {
+            "id":"12",
+            "image":"p12.jpg",
+            "title":"Udaipur",
+            "content":"Netus et malesuada fames ac turpis egestas sed tempus urna. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla.Enim sed faucibus turpis"
+        }
+    ]
+}
